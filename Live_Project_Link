@@ -1,0 +1,10 @@
+PROJECT TITLE
+Deploying a Scalable Static Website with a CDN
+
+LIVE PROJECT LINK
+https://d1l0biq7gfbveb.cloudfront.net
+DESCRIPTION
+This project demonstrates hosting a static website on Amazon S3 and delivering it globally using Amazon CloudFront (CDN).
+
+AUTHOR
+Ajinkya Sangale

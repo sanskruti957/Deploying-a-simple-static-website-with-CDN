@@ -1,0 +1,38 @@
+PROJECT TITLE
+Deploying a Scalable Static Website with a CDN
+
+DESCRIPTION
+This project demonstrates the deployment of a static website using Amazon S3 and Amazon CloudFront (CDN). The website is hosted on Amazon S3, while CloudFront provides faster content delivery, improved performance, and high availability.
+
+OBJECTIVES
+• Host a static website on Amazon S3.
+• Configure bucket permissions for public access.
+• Enable Static Website Hosting.
+• Integrate Amazon CloudFront as a Content Delivery Network.
+• Verify successful deployment.
+
+TECHNOLOGIES USED
+• Amazon S3
+• Amazon CloudFront
+• HTML
+
+IMPLEMENTATION STEPS
+1. Created an Amazon S3 bucket.
+2. Uploaded the website files.
+3. Enabled Static Website Hosting.
+4. Configured the bucket policy.
+5. Created an Amazon CloudFront distribution.
+6. Configured the Default Root Object as index.html.
+7. Successfully deployed and tested the website.
+
+FEATURES
+• Static website hosting
+• Fast content delivery using CDN
+• Public accessibility
+• Improved website performance
+
+LIVE PROJECT
+(Add your CloudFront URL here)
+
+AUTHOR
+Ajinkya Sangale
